@@ -1,0 +1,123 @@
+body {
+    .main {
+        background: whitesmoke;
+        color: hwb(0 27% 73%);
+        font-size: 20px;
+        font-weight: lighter;
+        text-align: rigth;
+        margin-top: 5px;
+        text-align: center;
+
+    }
+
+    .zone {
+        display: block;
+        height: 40%;
+        width: 20%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    input {
+        display: block;
+        width: 50%;
+        margin-top: 1%;
+        margin-left: auto;
+        margin-right: auto;
+
+        line-height: 24px;
+        height: 24px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid #dfe1e5;
+        border-radius: 24px;
+
+    }
+    .b {
+        display: block;
+        width: 300px;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card{
+        display: block;
+        color: #222222;
+        background: lightgray;
+        width: 300px;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 10px;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .red {
+        background: #c71226;
+        height: 100px;
+    }
+    .blue {
+        background: #0d1b88;
+        height: 100px;
+    }
+    .red {
+        background: #397327;
+        height: 100px;
+    }
+    .footer {
+        display: block;
+        width: 300px;
+        margin-top: auto;
+        margin-left: 0;
+        margin-right: auto;
+    } 
+    .save {
+        color: #0f1419;
+        margin-top: auto;
+        margin-left: 100px;
+        margin-right: auto;
+        border: 1px solid #cfd9de;
+        border-radius: 18px;
+        background: rgb(0, 255, 0);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-weight: bold;
+    }
+    .workpage {
+        color: #0f1419;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid #cfd9de;
+        border-radius: 18px;
+        background: rgb(192, 197, 192);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-weight: bold;
+    }
+    .nav-wrapper{
+        display: flex;
+        justify-content: space-around;
+    } 
+    .item {
+        text-align: center;
+        border: 1px solid black;
+        padding: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+
+    }
+
+}
